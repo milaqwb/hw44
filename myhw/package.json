@@ -1,0 +1,10 @@
+{
+  "name": "myhw",
+  "version": "1.0.0",
+  "description": "With request проект на Node.js",
+  "author": "Milan",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
